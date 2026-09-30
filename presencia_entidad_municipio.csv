@@ -1,0 +1,1310 @@
+municipio,entidad,n
+05001,AV Villas,31
+05001,BBVA Colombia,70
+05001,Banagrario,6
+05001,Banco Caja Social S.A.,152
+05001,Banco Davibank,55
+05001,Banco Davivienda,196
+05001,Banco de Bogotá,188
+05001,Banco de Occidente,103
+05001,Bancolombia,425
+05001,Itaú,11
+05030,Banco Caja Social S.A.,1
+05030,Banco Davivienda,4
+05030,Bancolombia,3
+05034,Banco Davivienda,1
+05034,Banco de Bogotá,1
+05034,Bancolombia,2
+05038,Banco de Bogotá,1
+05042,BBVA Colombia,1
+05042,Banagrario,1
+05042,Banco Davibank,1
+05042,Banco Davivienda,1
+05042,Banco de Bogotá,1
+05042,Bancolombia,4
+05045,BBVA Colombia,4
+05045,Banco Davivienda,7
+05045,Banco de Bogotá,4
+05045,Bancolombia,13
+05059,Banco Davivienda,1
+05079,BBVA Colombia,1
+05079,Banco Caja Social S.A.,1
+05088,AV Villas,10
+05088,BBVA Colombia,19
+05088,Banco Caja Social S.A.,42
+05088,Banco Davibank,65
+05088,Banco Davivienda,68
+05088,Banco de Bogotá,72
+05088,Bancolombia,241
+05101,Banco Davivienda,2
+05101,Bancolombia,4
+05120,Bancolombia,1
+05129,AV Villas,4
+05129,Banagrario,2
+05129,Banco Caja Social S.A.,4
+05129,Banco Davibank,2
+05129,Banco Davivienda,6
+05129,Banco de Bogotá,11
+05129,Bancolombia,26
+05145,Banagrario,1
+05147,BBVA Colombia,2
+05147,Banco Davivienda,1
+05147,Banco de Bogotá,2
+05147,Bancolombia,1
+05148,AV Villas,1
+05148,BBVA Colombia,4
+05148,Banagrario,5
+05148,Banco Davivienda,2
+05148,Banco de Bogotá,10
+05148,Bancolombia,27
+05154,BBVA Colombia,1
+05154,Banco de Bogotá,4
+05154,Bancolombia,1
+05172,Banco de Bogotá,7
+05172,Bancolombia,3
+05197,BBVA Colombia,1
+05197,Banagrario,1
+05212,BBVA Colombia,1
+05212,Banco Caja Social S.A.,10
+05212,Banco Davibank,2
+05212,Banco Davivienda,39
+05212,Banco de Bogotá,9
+05212,Bancolombia,20
+05237,Banagrario,1
+05264,Bancolombia,2
+05266,AV Villas,11
+05266,BBVA Colombia,13
+05266,Banagrario,2
+05266,Banco Caja Social S.A.,17
+05266,Banco Davibank,17
+05266,Banco Davivienda,63
+05266,Banco de Bogotá,40
+05266,Bancolombia,133
+05282,Bancolombia,1
+05284,Banco de Bogotá,1
+05284,Bancolombia,1
+05308,Banagrario,1
+05308,Banco Caja Social S.A.,2
+05308,Banco Davivienda,1
+05308,Banco de Bogotá,2
+05308,Bancolombia,2
+05310,Bancolombia,1
+05318,Banagrario,1
+05318,Banco Caja Social S.A.,4
+05318,Banco Davibank,1
+05318,Banco Davivienda,1
+05318,Banco de Bogotá,2
+05318,Bancolombia,12
+05321,Bancolombia,2
+05360,AV Villas,5
+05360,BBVA Colombia,4
+05360,Banagrario,2
+05360,Banco Caja Social S.A.,15
+05360,Banco Davivienda,29
+05360,Banco de Bogotá,18
+05360,Bancolombia,105
+05361,Banagrario,1
+05364,Banagrario,1
+05364,Banco Davivienda,9
+05364,Bancolombia,6
+05368,Banco Caja Social S.A.,1
+05376,AV Villas,2
+05376,BBVA Colombia,3
+05376,Banagrario,2
+05376,Banco Caja Social S.A.,12
+05376,Banco Davibank,2
+05376,Banco Davivienda,19
+05376,Banco de Bogotá,30
+05376,Bancolombia,38
+05380,AV Villas,4
+05380,BBVA Colombia,8
+05380,Banagrario,1
+05380,Banco Caja Social S.A.,4
+05380,Banco Davibank,6
+05380,Banco Davivienda,9
+05380,Banco de Bogotá,16
+05380,Bancolombia,61
+05390,Bancolombia,2
+05400,BBVA Colombia,5
+05400,Banagrario,2
+05400,Banco Davivienda,2
+05400,Bancolombia,3
+05440,BBVA Colombia,1
+05440,Banagrario,5
+05440,Banco Caja Social S.A.,2
+05440,Banco Davivienda,3
+05440,Banco de Bogotá,28
+05440,Bancolombia,14
+05483,Banagrario,1
+05541,Banagrario,1
+05541,Bancolombia,2
+05579,Bancolombia,3
+05585,Bancolombia,1
+05607,BBVA Colombia,1
+05607,Banagrario,1
+05607,Banco Caja Social S.A.,1
+05607,Banco Davibank,3
+05607,Banco Davivienda,3
+05607,Banco de Bogotá,3
+05607,Bancolombia,26
+05615,AV Villas,6
+05615,BBVA Colombia,25
+05615,Banagrario,11
+05615,Banco Caja Social S.A.,10
+05615,Banco Davibank,9
+05615,Banco Davivienda,70
+05615,Banco de Bogotá,61
+05615,Bancolombia,196
+05615,Itaú,4
+05631,AV Villas,10
+05631,BBVA Colombia,14
+05631,Banagrario,1
+05631,Banco Caja Social S.A.,12
+05631,Banco Davibank,22
+05631,Banco Davivienda,107
+05631,Banco de Bogotá,64
+05631,Bancolombia,180
+05642,Banco Davivienda,1
+05647,Banagrario,1
+05656,Bancolombia,3
+05660,Banco de Bogotá,2
+05664,Banagrario,1
+05664,Banco Davivienda,1
+05664,Banco de Bogotá,6
+05664,Bancolombia,7
+05665,Banagrario,1
+05667,Bancolombia,1
+05674,BBVA Colombia,1
+05674,Banagrario,1
+05674,Bancolombia,10
+05686,Banagrario,2
+05686,Banco de Bogotá,1
+05686,Bancolombia,4
+05697,Banagrario,5
+05697,Banco Caja Social S.A.,1
+05697,Banco Davivienda,2
+05697,Bancolombia,2
+05756,Banagrario,1
+05756,Bancolombia,2
+05761,Bancolombia,2
+05789,Banagrario,1
+05789,Banco Davivienda,5
+05789,Bancolombia,1
+05819,Banagrario,1
+05837,Banco de Bogotá,2
+05847,BBVA Colombia,2
+05847,Bancolombia,1
+05856,Banagrario,2
+05856,Bancolombia,1
+05861,Banco Caja Social S.A.,1
+05887,Banco Davivienda,2
+05887,Banco de Bogotá,5
+05887,Bancolombia,10
+05890,Banco Caja Social S.A.,1
+05890,Bancolombia,2
+05893,Banco Caja Social S.A.,1
+08001,AV Villas,31
+08001,BBVA Colombia,73
+08001,Banagrario,6
+08001,Banco Caja Social S.A.,67
+08001,Banco Davibank,17
+08001,Banco Davivienda,166
+08001,Banco de Bogotá,122
+08001,Banco de Occidente,127
+08001,Bancolombia,163
+08001,Itaú,4
+08078,BBVA Colombia,2
+08078,Banco Caja Social S.A.,4
+08078,Bancolombia,7
+08137,Banco de Bogotá,1
+08141,AV Villas,1
+08296,BBVA Colombia,5
+08296,Banco Davivienda,4
+08296,Banco de Bogotá,7
+08296,Bancolombia,27
+08372,Banagrario,1
+08433,Banco Caja Social S.A.,2
+08433,Banco de Bogotá,4
+08433,Bancolombia,2
+08558,Bancolombia,1
+08573,AV Villas,6
+08573,BBVA Colombia,16
+08573,Banco Caja Social S.A.,3
+08573,Banco Davibank,4
+08573,Banco Davivienda,93
+08573,Banco de Bogotá,65
+08573,Bancolombia,67
+08634,BBVA Colombia,1
+08634,Banco Davivienda,1
+08634,Banco de Bogotá,5
+08634,Bancolombia,3
+08638,BBVA Colombia,1
+08638,Banco Caja Social S.A.,1
+08638,Banco de Bogotá,2
+08638,Bancolombia,2
+08685,Banagrario,1
+08685,Bancolombia,3
+08758,AV Villas,1
+08758,BBVA Colombia,27
+08758,Banagrario,2
+08758,Banco Caja Social S.A.,35
+08758,Banco Davivienda,40
+08758,Banco de Bogotá,35
+08758,Bancolombia,56
+08832,BBVA Colombia,2
+08832,Bancolombia,1
+11001,AV Villas,208
+11001,BBVA Colombia,470
+11001,Banagrario,52
+11001,Banco Caja Social S.A.,954
+11001,Banco Davibank,291
+11001,Banco Davivienda,966
+11001,Banco de Bogotá,703
+11001,Banco de Occidente,184
+11001,Bancolombia,886
+11001,Itaú,116
+13001,AV Villas,8
+13001,BBVA Colombia,65
+13001,Banagrario,4
+13001,Banco Caja Social S.A.,26
+13001,Banco Davibank,6
+13001,Banco Davivienda,119
+13001,Banco de Bogotá,62
+13001,Bancolombia,202
+13052,Banco Davivienda,1
+13052,Bancolombia,1
+13430,BBVA Colombia,4
+13430,Banco de Bogotá,1
+13430,Bancolombia,15
+13468,BBVA Colombia,1
+13688,Banagrario,2
+13744,Banagrario,1
+13836,AV Villas,2
+13836,BBVA Colombia,10
+13836,Banco Caja Social S.A.,2
+13836,Banco Davibank,2
+13836,Banco Davivienda,15
+13836,Banco de Bogotá,13
+13836,Bancolombia,25
+15001,AV Villas,2
+15001,BBVA Colombia,35
+15001,Banagrario,15
+15001,Banco Caja Social S.A.,14
+15001,Banco Davibank,2
+15001,Banco Davivienda,52
+15001,Banco de Bogotá,30
+15001,Bancolombia,31
+15001,Itaú,1
+15047,Banagrario,1
+15051,BBVA Colombia,1
+15087,Banagrario,1
+15097,Banagrario,2
+15131,Banagrario,1
+15131,Bancolombia,1
+15135,Banagrario,1
+15176,BBVA Colombia,6
+15176,Banagrario,5
+15176,Banco Caja Social S.A.,13
+15176,Banco Davivienda,4
+15176,Banco de Bogotá,1
+15176,Bancolombia,5
+15183,Banagrario,1
+15187,Banco Caja Social S.A.,1
+15204,Banco Caja Social S.A.,1
+15238,AV Villas,4
+15238,BBVA Colombia,2
+15238,Banagrario,9
+15238,Banco Caja Social S.A.,14
+15238,Banco Davivienda,16
+15238,Banco de Bogotá,9
+15238,Bancolombia,14
+15272,Banco de Bogotá,1
+15276,Banco de Bogotá,1
+15299,Bancolombia,3
+15322,Banagrario,1
+15403,Banagrario,1
+15407,Banco Davibank,1
+15407,Banco Davivienda,1
+15407,Bancolombia,1
+15455,Banagrario,1
+15455,Banco Davivienda,2
+15469,Banagrario,3
+15469,Banco Davivienda,1
+15480,Banagrario,1
+15491,Banco Davivienda,1
+15491,Banco de Bogotá,1
+15507,Banagrario,1
+15516,BBVA Colombia,8
+15516,Banagrario,2
+15516,Banco Caja Social S.A.,1
+15516,Banco Davivienda,3
+15516,Banco de Bogotá,3
+15516,Bancolombia,8
+15522,Banagrario,1
+15572,Banagrario,3
+15572,Banco Davivienda,5
+15572,Bancolombia,2
+15599,Banagrario,3
+15599,Banco de Bogotá,1
+15599,Bancolombia,1
+15600,Banco Caja Social S.A.,1
+15646,Banagrario,1
+15646,Banco Davivienda,2
+15646,Bancolombia,1
+15664,Banagrario,1
+15693,Banagrario,2
+15693,Banco de Bogotá,1
+15696,Banagrario,1
+15753,BBVA Colombia,1
+15753,Banagrario,1
+15759,AV Villas,2
+15759,BBVA Colombia,16
+15759,Banagrario,5
+15759,Banco Caja Social S.A.,7
+15759,Banco Davibank,1
+15759,Banco Davivienda,21
+15759,Banco de Bogotá,17
+15759,Bancolombia,14
+15764,Banco de Bogotá,2
+15778,Banagrario,1
+15798,Banagrario,2
+15806,Banagrario,1
+15806,Banco Davivienda,1
+15814,Banco Caja Social S.A.,1
+15842,Banagrario,1
+15861,Banagrario,1
+15879,Banco Davivienda,1
+17001,AV Villas,1
+17001,BBVA Colombia,17
+17001,Banagrario,6
+17001,Banco Caja Social S.A.,23
+17001,Banco Davibank,3
+17001,Banco Davivienda,68
+17001,Banco de Bogotá,11
+17001,Bancolombia,60
+17013,Banco Davivienda,1
+17013,Bancolombia,1
+17042,Banagrario,1
+17042,Banco Davivienda,2
+17042,Bancolombia,1
+17088,Bancolombia,2
+17174,BBVA Colombia,1
+17174,Banco Caja Social S.A.,2
+17174,Banco Davivienda,5
+17174,Banco de Bogotá,1
+17174,Bancolombia,5
+17380,Banagrario,4
+17380,Banco Davivienda,7
+17380,Banco de Bogotá,3
+17380,Bancolombia,7
+17433,Banagrario,1
+17433,Banco Davivienda,1
+17444,Banagrario,1
+17486,Bancolombia,1
+17495,Banagrario,1
+17524,Banco Davivienda,2
+17541,Banco Davivienda,1
+17541,Banco de Bogotá,1
+17614,Bancolombia,2
+17653,Banco Davivienda,1
+17662,Banagrario,1
+17662,Bancolombia,1
+17665,Banco Caja Social S.A.,1
+17665,Bancolombia,1
+17777,Bancolombia,1
+17873,Banco Caja Social S.A.,4
+17873,Banco Davivienda,14
+17873,Banco de Bogotá,1
+17873,Bancolombia,8
+17877,Bancolombia,1
+18001,BBVA Colombia,3
+18001,Banagrario,3
+18001,Banco Caja Social S.A.,2
+18001,Banco Davivienda,16
+18001,Bancolombia,9
+18029,Banagrario,1
+18150,Banagrario,1
+18205,Banagrario,1
+18247,Banagrario,2
+18410,Banagrario,1
+18592,Banagrario,1
+18592,Bancolombia,1
+18753,BBVA Colombia,1
+18753,Banco de Bogotá,2
+18753,Bancolombia,2
+18785,Banagrario,1
+19001,AV Villas,1
+19001,BBVA Colombia,10
+19001,Banagrario,1
+19001,Banco Caja Social S.A.,13
+19001,Banco Davivienda,45
+19001,Banco de Bogotá,13
+19001,Bancolombia,64
+19001,Itaú,1
+19100,Banagrario,1
+19212,Banco de Bogotá,1
+19256,Banco Caja Social S.A.,1
+19455,Banco de Bogotá,1
+19532,Bancolombia,1
+19573,AV Villas,1
+19573,BBVA Colombia,2
+19573,Banco Caja Social S.A.,1
+19573,Banco Davivienda,14
+19573,Banco de Bogotá,7
+19573,Bancolombia,12
+19622,Banco de Bogotá,1
+19698,Banagrario,1
+19698,Banco Caja Social S.A.,3
+19807,Banco Davivienda,2
+19845,Bancolombia,3
+20001,AV Villas,3
+20001,BBVA Colombia,59
+20001,Banagrario,3
+20001,Banco Caja Social S.A.,8
+20001,Banco Davibank,2
+20001,Banco Davivienda,59
+20001,Banco de Bogotá,16
+20001,Bancolombia,68
+20011,BBVA Colombia,6
+20011,Banco Davivienda,2
+20011,Banco de Bogotá,1
+20011,Bancolombia,4
+20013,Banagrario,1
+20060,BBVA Colombia,1
+20060,Banco de Bogotá,1
+20060,Bancolombia,3
+20238,Banagrario,1
+20250,Banagrario,1
+20400,Banco de Bogotá,1
+20550,Bancolombia,1
+20570,Bancolombia,1
+20621,Banco de Bogotá,1
+20710,Banagrario,1
+20750,BBVA Colombia,1
+20750,Banagrario,1
+20770,Banco de Bogotá,1
+20770,Bancolombia,1
+23001,AV Villas,1
+23001,BBVA Colombia,29
+23001,Banco Caja Social S.A.,6
+23001,Banco Davivienda,17
+23001,Banco de Bogotá,10
+23001,Bancolombia,30
+23162,BBVA Colombia,2
+23162,Banco Caja Social S.A.,4
+23162,Banco Davivienda,3
+23162,Banco de Bogotá,9
+23162,Bancolombia,6
+23182,BBVA Colombia,1
+23189,Banagrario,1
+23189,Bancolombia,1
+23417,BBVA Colombia,3
+23417,Banagrario,1
+23417,Banco Davivienda,1
+23417,Banco de Bogotá,1
+23417,Bancolombia,3
+23466,Banagrario,2
+23466,Bancolombia,1
+23555,BBVA Colombia,1
+23586,Banagrario,1
+23660,BBVA Colombia,3
+23660,Bancolombia,4
+25001,Banagrario,3
+25035,Banagrario,1
+25035,Banco de Bogotá,2
+25035,Bancolombia,1
+25040,Banagrario,1
+25040,Banco Davivienda,1
+25053,Banco de Bogotá,1
+25099,Banco Caja Social S.A.,2
+25099,Bancolombia,1
+25126,AV Villas,10
+25126,BBVA Colombia,17
+25126,Banco Caja Social S.A.,20
+25126,Banco Davivienda,73
+25126,Banco de Bogotá,40
+25126,Bancolombia,51
+25148,Banagrario,1
+25151,Banagrario,1
+25151,Banco Davivienda,1
+25154,BBVA Colombia,1
+25154,Banagrario,1
+25175,AV Villas,20
+25175,BBVA Colombia,24
+25175,Banagrario,1
+25175,Banco Caja Social S.A.,28
+25175,Banco Davivienda,66
+25175,Banco de Bogotá,45
+25175,Bancolombia,43
+25175,Itaú,1
+25183,Banagrario,1
+25183,Banco de Bogotá,2
+25200,Banco Caja Social S.A.,1
+25214,BBVA Colombia,3
+25214,Banco Caja Social S.A.,2
+25214,Banco Davibank,3
+25214,Banco Davivienda,5
+25214,Banco de Bogotá,4
+25214,Bancolombia,8
+25245,Banco Caja Social S.A.,1
+25245,Banco Davivienda,2
+25245,Banco de Bogotá,4
+25260,Banco Davivienda,2
+25260,Banco de Bogotá,3
+25260,Bancolombia,1
+25269,AV Villas,1
+25269,BBVA Colombia,5
+25269,Banco Caja Social S.A.,17
+25269,Banco Davibank,1
+25269,Banco Davivienda,14
+25269,Banco de Bogotá,4
+25269,Bancolombia,6
+25279,Banagrario,1
+25286,AV Villas,3
+25286,BBVA Colombia,6
+25286,Banco Caja Social S.A.,14
+25286,Banco Davivienda,19
+25286,Banco de Bogotá,13
+25286,Bancolombia,9
+25290,AV Villas,1
+25290,BBVA Colombia,11
+25290,Banagrario,1
+25290,Banco Caja Social S.A.,18
+25290,Banco Davivienda,32
+25290,Banco de Bogotá,32
+25290,Bancolombia,16
+25295,BBVA Colombia,4
+25295,Banco Caja Social S.A.,3
+25295,Banco Davivienda,3
+25295,Banco de Bogotá,2
+25295,Bancolombia,7
+25307,AV Villas,2
+25307,BBVA Colombia,14
+25307,Banagrario,7
+25307,Banco Caja Social S.A.,13
+25307,Banco Davivienda,13
+25307,Banco de Bogotá,26
+25307,Bancolombia,27
+25312,Bancolombia,1
+25317,Bancolombia,1
+25320,Banco de Bogotá,1
+25322,Banco de Bogotá,2
+25322,Bancolombia,1
+25372,Bancolombia,1
+25377,AV Villas,6
+25377,BBVA Colombia,5
+25377,Banco Caja Social S.A.,4
+25377,Banco Davibank,3
+25377,Banco Davivienda,19
+25377,Banco de Bogotá,7
+25377,Bancolombia,10
+25386,BBVA Colombia,2
+25386,Banco Caja Social S.A.,3
+25386,Banco Davivienda,4
+25386,Banco de Bogotá,5
+25386,Bancolombia,9
+25402,Banagrario,1
+25402,Banco Davibank,1
+25402,Banco Davivienda,1
+25402,Banco de Bogotá,6
+25402,Bancolombia,27
+25426,Bancolombia,1
+25430,AV Villas,13
+25430,BBVA Colombia,30
+25430,Banagrario,2
+25430,Banco Caja Social S.A.,41
+25430,Banco Davibank,5
+25430,Banco Davivienda,77
+25430,Banco de Bogotá,35
+25430,Bancolombia,60
+25438,Banagrario,1
+25438,Banco de Bogotá,1
+25473,AV Villas,7
+25473,BBVA Colombia,26
+25473,Banco Caja Social S.A.,37
+25473,Banco Davibank,5
+25473,Banco Davivienda,63
+25473,Banco de Bogotá,30
+25473,Bancolombia,34
+25483,BBVA Colombia,1
+25486,Banco Davivienda,1
+25486,Banco de Bogotá,1
+25486,Bancolombia,1
+25488,Banco Davivienda,2
+25488,Bancolombia,1
+25489,Banco de Bogotá,1
+25489,Bancolombia,2
+25513,Banagrario,2
+25513,Banco Davivienda,7
+25513,Banco de Bogotá,3
+25513,Bancolombia,2
+25530,Banagrario,2
+25599,BBVA Colombia,3
+25599,Banco Davibank,1
+25599,Banco Davivienda,10
+25599,Banco de Bogotá,1
+25599,Bancolombia,16
+25612,AV Villas,3
+25612,BBVA Colombia,9
+25612,Banco Caja Social S.A.,1
+25612,Banco Davibank,3
+25612,Banco Davivienda,32
+25612,Banco de Bogotá,13
+25612,Bancolombia,23
+25645,Banco de Bogotá,1
+25649,Banco de Bogotá,1
+25658,Banco Caja Social S.A.,1
+25658,Bancolombia,1
+25736,Banco de Bogotá,22
+25736,Bancolombia,1
+25740,Banco Caja Social S.A.,1
+25740,Banco Davivienda,3
+25740,Banco de Bogotá,1
+25743,Banagrario,1
+25745,Banagrario,3
+25745,Banco Caja Social S.A.,2
+25745,Bancolombia,1
+25754,AV Villas,25
+25754,BBVA Colombia,43
+25754,Banagrario,2
+25754,Banco Caja Social S.A.,87
+25754,Banco Davibank,1
+25754,Banco Davivienda,104
+25754,Banco de Bogotá,36
+25754,Bancolombia,60
+25758,BBVA Colombia,2
+25758,Banco Caja Social S.A.,3
+25758,Banco Davivienda,4
+25758,Banco de Bogotá,5
+25758,Bancolombia,8
+25769,Banco Caja Social S.A.,2
+25772,Banco Caja Social S.A.,1
+25772,Banco Davivienda,1
+25777,Banco de Bogotá,1
+25785,Banco Caja Social S.A.,2
+25797,Banco Davivienda,1
+25799,AV Villas,1
+25799,BBVA Colombia,1
+25799,Banco Caja Social S.A.,1
+25799,Banco Davibank,1
+25799,Banco Davivienda,1
+25799,Banco de Bogotá,1
+25799,Bancolombia,1
+25805,Bancolombia,1
+25815,Banco Caja Social S.A.,3
+25815,Banco de Bogotá,1
+25817,AV Villas,8
+25817,BBVA Colombia,20
+25817,Banagrario,2
+25817,Banco Caja Social S.A.,19
+25817,Banco Davivienda,29
+25817,Banco de Bogotá,37
+25817,Bancolombia,35
+25843,Banagrario,1
+25843,Banco Caja Social S.A.,1
+25843,Bancolombia,2
+25845,Bancolombia,1
+25873,Banagrario,1
+25873,Banco de Bogotá,2
+25875,AV Villas,1
+25875,BBVA Colombia,3
+25875,Banagrario,1
+25875,Banco Davibank,1
+25875,Banco Davivienda,4
+25875,Banco de Bogotá,2
+25875,Bancolombia,4
+25899,AV Villas,13
+25899,BBVA Colombia,23
+25899,Banagrario,1
+25899,Banco Caja Social S.A.,37
+25899,Banco Davivienda,74
+25899,Banco de Bogotá,53
+25899,Bancolombia,63
+27001,Banco de Bogotá,1
+27001,Bancolombia,1
+27361,Banco de Bogotá,1
+27787,Banagrario,1
+41001,BBVA Colombia,37
+41001,Banagrario,3
+41001,Banco Caja Social S.A.,30
+41001,Banco Davibank,1
+41001,Banco Davivienda,114
+41001,Banco de Bogotá,50
+41001,Bancolombia,74
+41013,Banagrario,1
+41016,Bancolombia,1
+41020,Banagrario,1
+41132,Banagrario,2
+41298,BBVA Colombia,1
+41298,Banco Davivienda,1
+41298,Banco de Bogotá,1
+41298,Bancolombia,1
+41306,Banagrario,1
+41319,Bancolombia,1
+41357,Banagrario,1
+41359,Banco de Bogotá,1
+41359,Bancolombia,2
+41396,Banagrario,1
+41396,Bancolombia,6
+41524,BBVA Colombia,9
+41524,Banco Caja Social S.A.,1
+41524,Banco Davivienda,2
+41524,Banco de Bogotá,1
+41524,Bancolombia,6
+41551,BBVA Colombia,8
+41551,Banagrario,2
+41551,Banco Caja Social S.A.,5
+41551,Banco Davivienda,16
+41551,Banco de Bogotá,5
+41551,Bancolombia,49
+41615,BBVA Colombia,2
+41615,Banagrario,1
+41615,Banco Davivienda,3
+41615,Banco de Bogotá,2
+41668,Banagrario,1
+41668,Banco de Bogotá,13
+41668,Bancolombia,10
+41797,Banagrario,1
+41797,Bancolombia,1
+41801,Banagrario,1
+41885,Bancolombia,22
+44001,BBVA Colombia,5
+44001,Banagrario,1
+44001,Banco Davivienda,6
+44001,Banco de Bogotá,3
+44001,Bancolombia,3
+44078,Banco de Bogotá,1
+44279,BBVA Colombia,1
+44279,Banagrario,1
+44378,BBVA Colombia,1
+44430,BBVA Colombia,4
+44430,Banagrario,2
+44430,Banco de Bogotá,2
+44430,Bancolombia,3
+44650,Banco Davivienda,2
+44650,Banco de Bogotá,1
+44650,Bancolombia,5
+44847,Bancolombia,1
+44874,Banagrario,1
+47001,AV Villas,3
+47001,BBVA Colombia,42
+47001,Banagrario,1
+47001,Banco Caja Social S.A.,15
+47001,Banco Davibank,3
+47001,Banco Davivienda,149
+47001,Banco de Bogotá,31
+47001,Bancolombia,56
+47058,Banagrario,1
+47189,Banco Davivienda,2
+47189,Banco de Bogotá,2
+47189,Bancolombia,1
+47245,BBVA Colombia,1
+47268,BBVA Colombia,1
+47288,Banco Davivienda,2
+47288,Bancolombia,1
+47555,BBVA Colombia,1
+47555,Banagrario,1
+50001,AV Villas,5
+50001,BBVA Colombia,36
+50001,Banagrario,6
+50001,Banco Caja Social S.A.,29
+50001,Banco Davibank,6
+50001,Banco Davivienda,123
+50001,Banco de Bogotá,59
+50001,Bancolombia,83
+50001,Itaú,2
+50006,BBVA Colombia,11
+50006,Banagrario,2
+50006,Banco Caja Social S.A.,6
+50006,Banco Davivienda,7
+50006,Banco de Bogotá,6
+50006,Bancolombia,4
+50110,Bancolombia,1
+50223,Banagrario,1
+50223,Bancolombia,1
+50226,Banagrario,7
+50226,Bancolombia,1
+50287,Banagrario,1
+50287,Bancolombia,1
+50313,BBVA Colombia,3
+50313,Banagrario,5
+50313,Banco Caja Social S.A.,6
+50313,Banco Davivienda,3
+50313,Bancolombia,11
+50318,Banagrario,1
+50318,Banco Davivienda,1
+50318,Banco de Bogotá,2
+50450,Banco de Bogotá,5
+50568,Banco de Bogotá,1
+50568,Bancolombia,2
+50573,BBVA Colombia,1
+50573,Banagrario,3
+50573,Banco Davivienda,4
+50573,Banco de Bogotá,12
+50573,Bancolombia,2
+50577,Banagrario,1
+50606,BBVA Colombia,1
+50606,Banagrario,2
+50606,Banco Caja Social S.A.,1
+50606,Banco Davibank,1
+50606,Banco Davivienda,40
+50606,Banco de Bogotá,13
+50606,Bancolombia,12
+50689,Banagrario,2
+50689,Banco Davivienda,1
+50689,Banco de Bogotá,1
+52001,BBVA Colombia,11
+52001,Banagrario,3
+52001,Banco Caja Social S.A.,11
+52001,Banco Davibank,3
+52001,Banco Davivienda,38
+52001,Banco de Bogotá,10
+52001,Bancolombia,54
+52110,Banagrario,1
+52227,Banco Caja Social S.A.,1
+52317,Banco de Bogotá,1
+52317,Bancolombia,1
+52320,Bancolombia,1
+52356,AV Villas,1
+52356,Banagrario,4
+52356,Banco Caja Social S.A.,4
+52356,Banco Davivienda,16
+52356,Banco de Bogotá,2
+52356,Bancolombia,4
+52399,Banco Davivienda,1
+52427,Banco de Bogotá,1
+52473,Banco Caja Social S.A.,2
+52683,Banagrario,1
+52838,AV Villas,1
+52838,Banco Davivienda,1
+54001,AV Villas,3
+54001,BBVA Colombia,38
+54001,Banagrario,3
+54001,Banco Caja Social S.A.,22
+54001,Banco Davibank,5
+54001,Banco Davivienda,47
+54001,Banco de Bogotá,47
+54001,Bancolombia,40
+54003,Banco Caja Social S.A.,1
+54003,Bancolombia,1
+54051,Banagrario,1
+54172,BBVA Colombia,3
+54172,Banco Davivienda,6
+54172,Banco de Bogotá,1
+54172,Bancolombia,3
+54261,BBVA Colombia,1
+54261,Banco Caja Social S.A.,1
+54261,Banco Davivienda,1
+54385,Banco Caja Social S.A.,1
+54405,AV Villas,1
+54405,BBVA Colombia,9
+54405,Banagrario,1
+54405,Banco Caja Social S.A.,6
+54405,Banco Davivienda,16
+54405,Banco de Bogotá,11
+54405,Bancolombia,19
+54480,Banagrario,1
+54498,BBVA Colombia,4
+54498,Banco Caja Social S.A.,3
+54498,Banco Davivienda,7
+54498,Banco de Bogotá,2
+54498,Bancolombia,6
+54518,BBVA Colombia,3
+54518,Banagrario,5
+54518,Banco Davivienda,2
+54518,Banco de Bogotá,1
+54518,Bancolombia,3
+54720,Banagrario,1
+54810,Banagrario,2
+54820,Banagrario,2
+54874,AV Villas,1
+54874,BBVA Colombia,20
+54874,Banco Caja Social S.A.,1
+54874,Banco Davivienda,38
+54874,Banco de Bogotá,14
+54874,Bancolombia,37
+63001,AV Villas,4
+63001,BBVA Colombia,24
+63001,Banagrario,3
+63001,Banco Caja Social S.A.,14
+63001,Banco Davibank,1
+63001,Banco Davivienda,61
+63001,Banco de Bogotá,24
+63001,Bancolombia,30
+63001,Itaú,2
+63130,BBVA Colombia,4
+63130,Banco Davivienda,12
+63130,Banco de Bogotá,3
+63130,Bancolombia,9
+63190,Banco Caja Social S.A.,2
+63190,Banco Davivienda,4
+63190,Banco de Bogotá,4
+63190,Bancolombia,3
+63272,Bancolombia,1
+63401,Banagrario,1
+63401,Banco Caja Social S.A.,1
+63401,Banco Davivienda,1
+63401,Banco de Bogotá,2
+63401,Bancolombia,2
+63470,Banco Davivienda,3
+63470,Bancolombia,7
+63594,Banco Davivienda,2
+63594,Banco de Bogotá,1
+63690,Banagrario,1
+66001,AV Villas,4
+66001,BBVA Colombia,16
+66001,Banagrario,3
+66001,Banco Caja Social S.A.,18
+66001,Banco Davibank,5
+66001,Banco Davivienda,82
+66001,Banco de Bogotá,13
+66001,Banco de Occidente,26
+66001,Bancolombia,86
+66001,Itaú,1
+66088,Banagrario,1
+66170,AV Villas,2
+66170,BBVA Colombia,17
+66170,Banco Caja Social S.A.,10
+66170,Banco Davibank,2
+66170,Banco Davivienda,50
+66170,Banco de Bogotá,9
+66170,Bancolombia,34
+66400,Banco Davivienda,1
+66682,BBVA Colombia,2
+66682,Banagrario,2
+66682,Banco Caja Social S.A.,1
+66682,Banco Davibank,1
+66682,Banco Davivienda,4
+66682,Banco de Bogotá,2
+66682,Bancolombia,11
+68001,AV Villas,16
+68001,BBVA Colombia,51
+68001,Banagrario,11
+68001,Banco Caja Social S.A.,61
+68001,Banco Davibank,15
+68001,Banco Davivienda,59
+68001,Banco de Bogotá,61
+68001,Banco de Occidente,27
+68001,Bancolombia,99
+68001,Itaú,6
+68077,Banagrario,4
+68077,Banco Davivienda,2
+68077,Banco de Bogotá,1
+68077,Bancolombia,3
+68079,Banagrario,2
+68079,Bancolombia,1
+68081,BBVA Colombia,13
+68081,Banagrario,4
+68081,Banco Caja Social S.A.,11
+68081,Banco Davibank,1
+68081,Banco Davivienda,15
+68081,Banco de Bogotá,11
+68081,Bancolombia,14
+68147,Banagrario,2
+68167,Bancolombia,1
+68207,Banagrario,1
+68229,BBVA Colombia,1
+68229,Banagrario,1
+68229,Bancolombia,3
+68235,Banagrario,1
+68250,Banco de Bogotá,7
+68266,Banagrario,1
+68276,AV Villas,8
+68276,BBVA Colombia,21
+68276,Banagrario,1
+68276,Banco Caja Social S.A.,33
+68276,Banco Davibank,7
+68276,Banco Davivienda,65
+68276,Banco de Bogotá,40
+68276,Bancolombia,80
+68307,AV Villas,3
+68307,BBVA Colombia,16
+68307,Banco Caja Social S.A.,8
+68307,Banco Davivienda,11
+68307,Bancolombia,16
+68327,Banco Davivienda,1
+68370,Banagrario,1
+68385,Bancolombia,1
+68406,Banagrario,2
+68406,Banco Davivienda,1
+68406,Banco de Bogotá,2
+68406,Bancolombia,2
+68418,Bancolombia,3
+68432,BBVA Colombia,1
+68432,Banagrario,5
+68432,Banco de Bogotá,1
+68432,Bancolombia,1
+68502,Banagrario,1
+68547,AV Villas,5
+68547,BBVA Colombia,26
+68547,Banagrario,1
+68547,Banco Caja Social S.A.,36
+68547,Banco Davibank,5
+68547,Banco Davivienda,24
+68547,Banco de Bogotá,14
+68547,Bancolombia,14
+68549,Banco Davivienda,1
+68549,Bancolombia,1
+68575,Banagrario,1
+68575,Banco de Bogotá,1
+68615,Banagrario,1
+68615,Banco Davivienda,1
+68655,Banco Caja Social S.A.,1
+68655,Banco de Bogotá,1
+68669,Banagrario,1
+68679,AV Villas,1
+68679,BBVA Colombia,9
+68679,Banagrario,3
+68679,Banco Caja Social S.A.,6
+68679,Banco Davivienda,17
+68679,Banco de Bogotá,1
+68679,Bancolombia,8
+68689,Banagrario,1
+68689,Banco Davivienda,2
+68745,Bancolombia,1
+68755,BBVA Colombia,2
+68755,Banagrario,2
+68755,Banco Davivienda,1
+68755,Banco de Bogotá,1
+68755,Bancolombia,3
+68861,Banagrario,4
+68872,Bancolombia,1
+68895,Banagrario,1
+68895,Bancolombia,1
+70001,AV Villas,3
+70001,BBVA Colombia,9
+70001,Banagrario,5
+70001,Banco Caja Social S.A.,5
+70001,Banco Davivienda,21
+70001,Banco de Bogotá,3
+70001,Bancolombia,24
+70110,Banagrario,1
+70215,BBVA Colombia,3
+70215,Banco Davivienda,2
+70215,Banco de Bogotá,1
+70215,Bancolombia,4
+70221,BBVA Colombia,1
+70418,Banco de Bogotá,1
+70418,Bancolombia,1
+70473,Banco de Bogotá,1
+70742,Bancolombia,1
+70820,Bancolombia,1
+73001,AV Villas,4
+73001,BBVA Colombia,103
+73001,Banagrario,4
+73001,Banco Caja Social S.A.,53
+73001,Banco Davivienda,156
+73001,Banco de Bogotá,68
+73001,Banco de Occidente,19
+73001,Bancolombia,195
+73001,Itaú,1
+73055,Banagrario,1
+73124,Banagrario,1
+73124,Bancolombia,1
+73148,BBVA Colombia,2
+73148,Banco Davivienda,1
+73148,Banco de Bogotá,1
+73148,Bancolombia,3
+73168,Banco Davivienda,1
+73168,Banco de Bogotá,2
+73168,Bancolombia,2
+73268,AV Villas,1
+73268,BBVA Colombia,8
+73268,Banagrario,1
+73268,Banco Caja Social S.A.,3
+73268,Banco Davivienda,6
+73268,Banco de Bogotá,1
+73268,Bancolombia,19
+73275,AV Villas,2
+73275,BBVA Colombia,2
+73275,Banco Caja Social S.A.,2
+73275,Banco Davivienda,9
+73275,Banco de Bogotá,5
+73319,Banco Caja Social S.A.,2
+73319,Banco de Bogotá,1
+73319,Bancolombia,3
+73349,Banco de Bogotá,1
+73349,Bancolombia,2
+73408,Banco de Bogotá,1
+73411,BBVA Colombia,1
+73411,Banco Caja Social S.A.,1
+73411,Banco Davivienda,3
+73443,Banagrario,2
+73443,Banco Davivienda,3
+73443,Bancolombia,2
+73449,BBVA Colombia,3
+73449,Banco Davivienda,26
+73449,Banco de Bogotá,10
+73449,Bancolombia,23
+73483,Banagrario,1
+73483,Bancolombia,1
+73585,Banco Davivienda,1
+73585,Bancolombia,1
+73624,Banagrario,1
+73624,Banco de Bogotá,1
+73624,Bancolombia,2
+73671,Banagrario,1
+73671,Banco de Bogotá,1
+73678,Bancolombia,1
+73770,Banagrario,1
+76001,AV Villas,14
+76001,BBVA Colombia,53
+76001,Banagrario,16
+76001,Banco Caja Social S.A.,123
+76001,Banco Davibank,27
+76001,Banco Davivienda,191
+76001,Banco de Bogotá,123
+76001,Banco de Occidente,72
+76001,Bancolombia,215
+76001,Itaú,2
+76020,Bancolombia,1
+76036,Bancolombia,1
+76041,Bancolombia,1
+76100,Banagrario,1
+76109,Banco de Bogotá,1
+76111,BBVA Colombia,10
+76111,Banagrario,1
+76111,Banco Caja Social S.A.,6
+76111,Banco Davivienda,8
+76111,Banco de Bogotá,2
+76111,Bancolombia,17
+76122,Banco Caja Social S.A.,1
+76122,Banco Davivienda,2
+76122,Banco de Bogotá,1
+76122,Bancolombia,8
+76126,BBVA Colombia,1
+76126,Banagrario,3
+76126,Bancolombia,1
+76130,AV Villas,1
+76130,BBVA Colombia,4
+76130,Banco Caja Social S.A.,9
+76130,Banco Davivienda,26
+76130,Banco de Bogotá,12
+76130,Bancolombia,32
+76147,AV Villas,4
+76147,BBVA Colombia,3
+76147,Banagrario,8
+76147,Banco Caja Social S.A.,4
+76147,Banco Davivienda,16
+76147,Banco de Bogotá,6
+76147,Bancolombia,30
+76246,Banco Davivienda,1
+76248,AV Villas,1
+76248,BBVA Colombia,1
+76248,Banagrario,1
+76248,Banco Caja Social S.A.,2
+76248,Banco Davivienda,8
+76248,Bancolombia,4
+76250,Banagrario,2
+76250,Banco Davivienda,1
+76275,Banco Davivienda,1
+76275,Banco de Bogotá,2
+76275,Bancolombia,7
+76306,Banco Caja Social S.A.,1
+76306,Banco de Bogotá,4
+76306,Bancolombia,1
+76318,Banagrario,1
+76318,Bancolombia,11
+76364,BBVA Colombia,18
+76364,Banco Caja Social S.A.,17
+76364,Banco Davivienda,53
+76364,Banco de Bogotá,40
+76364,Bancolombia,62
+76400,BBVA Colombia,1
+76400,Banco Davivienda,1
+76400,Banco de Bogotá,3
+76400,Bancolombia,9
+76403,Banco Davivienda,1
+76520,AV Villas,5
+76520,BBVA Colombia,7
+76520,Banagrario,1
+76520,Banco Caja Social S.A.,29
+76520,Banco Davibank,1
+76520,Banco Davivienda,21
+76520,Banco de Bogotá,18
+76520,Bancolombia,37
+76563,BBVA Colombia,1
+76563,Banco Caja Social S.A.,1
+76563,Bancolombia,2
+76606,Banagrario,1
+76622,Banco Davivienda,5
+76622,Bancolombia,7
+76670,Banco Caja Social S.A.,1
+76670,Bancolombia,1
+76736,Banagrario,5
+76736,Banco de Bogotá,2
+76736,Bancolombia,1
+76823,Banagrario,5
+76823,Bancolombia,4
+76828,Banco de Bogotá,1
+76828,Bancolombia,4
+76834,BBVA Colombia,2
+76834,Banagrario,1
+76834,Banco Caja Social S.A.,11
+76834,Banco Davivienda,1
+76834,Banco de Bogotá,5
+76834,Bancolombia,11
+76869,Banco Caja Social S.A.,1
+76892,AV Villas,3
+76892,BBVA Colombia,6
+76892,Banco Caja Social S.A.,6
+76892,Banco Davibank,2
+76892,Banco Davivienda,17
+76892,Banco de Bogotá,20
+76892,Bancolombia,25
+76895,Banco Davivienda,5
+76895,Banco de Bogotá,1
+76895,Bancolombia,11
+81001,BBVA Colombia,1
+81001,Banagrario,2
+81001,Banco Davivienda,6
+81001,Bancolombia,2
+81065,Banagrario,1
+81736,Banagrario,3
+81736,Banco Davivienda,4
+81794,Banagrario,1
+81794,Banco Davivienda,3
+85001,AV Villas,1
+85001,BBVA Colombia,13
+85001,Banagrario,6
+85001,Banco Caja Social S.A.,8
+85001,Banco Davivienda,16
+85001,Banco de Bogotá,7
+85001,Bancolombia,6
+85010,BBVA Colombia,4
+85010,Banagrario,2
+85010,Banco Caja Social S.A.,1
+85010,Banco Davivienda,1
+85162,Banagrario,2
+85230,Banagrario,1
+85250,BBVA Colombia,2
+85250,Banagrario,4
+85250,Banco de Bogotá,1
+85250,Bancolombia,8
+85300,Bancolombia,1
+85410,Banagrario,1
+85410,Bancolombia,2
+85440,Banagrario,2
+85440,Banco de Bogotá,2
+85440,Bancolombia,2
+86001,Bancolombia,4
+86320,Banco de Bogotá,1
+86568,Bancolombia,2
+86569,Banagrario,1
+86573,Banagrario,1
+86865,Bancolombia,1
+86885,BBVA Colombia,1
+86885,Bancolombia,1
+88001,Banagrario,1
+88001,Banco Caja Social S.A.,1
+88001,Banco de Bogotá,2
+88564,Bancolombia,1
+91001,BBVA Colombia,1
+91001,Banco de Bogotá,1
+94001,Bancolombia,4
+94884,Bancolombia,1
+95001,BBVA Colombia,3
+95001,Banagrario,2
+95001,Banco de Bogotá,3
+95001,Bancolombia,7
+99524,Banagrario,2

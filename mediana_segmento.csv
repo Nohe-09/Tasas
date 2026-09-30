@@ -1,0 +1,188 @@
+producto,plazo,nivel_monto,mediana,n
+Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,bajo,14.01,7
+Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,medio,13.68,14
+Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,alto,14.01,48
+Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,15.515,474
+Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,15.6,729
+Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,15.6,3199
+Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,15.51,81
+Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,15.5,15
+Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,15.365,20
+Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,15.53,666
+Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,15.84,503
+Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,15.4,998
+Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,bajo,15.51,214
+Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,medio,15.45,38
+Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,alto,15.34,35
+Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,bajo,10.2,12
+Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,medio,9.98,59
+Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,alto,9.6,253
+Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,8.8,10
+Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,8.8,38
+Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,9.25,179
+Adquisición de vivienda no vis (colocación en uvr),Más de 5 años y hasta 7 años,alto,6.21,1
+Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,8.6,9
+Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,medio,9.595,4
+Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,8.5,17
+Adquisición de vivienda no vis (colocación en uvr),Vivienda hasta 5 años,alto,9.455,2
+Adquisición de vivienda vis (colocación en pesos),A más de 20 años,bajo,15.48,209
+Adquisición de vivienda vis (colocación en pesos),A más de 20 años,medio,14.62,234
+Adquisición de vivienda vis (colocación en pesos),A más de 20 años,alto,14.69,13
+Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,14.7,1450
+Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,14.7,2575
+Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,14.8,239
+Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,14.95,135
+Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,14.735,18
+Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,14.95,1570
+Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,14.775,682
+Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,14.8,31
+Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,bajo,14.985,448
+Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,medio,15.1,37
+Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,alto,16.035,6
+Adquisición de vivienda vis (colocación en uvr),A más de 20 años,bajo,9.045,626
+Adquisición de vivienda vis (colocación en uvr),A más de 20 años,medio,8.84,917
+Adquisición de vivienda vis (colocación en uvr),A más de 20 años,alto,9.12,74
+Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,8.2,224
+Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,8.5,407
+Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,8.65,42
+Adquisición de vivienda vis (colocación en uvr),Más de 5 años y hasta 7 años,bajo,7.675,2
+Adquisición de vivienda vis (colocación en uvr),Más de 5 años y hasta 7 años,medio,8.6,1
+Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,7.6,97
+Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,medio,8.1,67
+Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,8.86,9
+Adquisición de vivienda vis (colocación en uvr),Vivienda hasta 5 años,bajo,10.675,36
+Adquisición de vivienda vis (colocación en uvr),Vivienda hasta 5 años,medio,10.7,18
+Adquisición de vivienda vis (colocación en uvr),Vivienda hasta 5 años,alto,10.7,1
+Adquisición leasing habitacional no vis (colocación en pesos),A más de 20 años,medio,15.4,1
+Adquisición leasing habitacional no vis (colocación en pesos),A más de 20 años,alto,15.3,8
+Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,15.8,9
+Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,15.61,45
+Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,15.23,1005
+Adquisición leasing habitacional no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,16.45,6
+Adquisición leasing habitacional no vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,15.8,1
+Adquisición leasing habitacional no vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,14.9,3
+Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,16.45,95
+Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,16.45,79
+Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,15.795,212
+Adquisición leasing habitacional no vis (colocación en pesos),Vivienda hasta 5 años,bajo,16.45,25
+Adquisición leasing habitacional no vis (colocación en pesos),Vivienda hasta 5 años,medio,15.85,2
+Adquisición leasing habitacional no vis (colocación en pesos),Vivienda hasta 5 años,alto,15.695,6
+Adquisición leasing habitacional no vis (colocación en uvr),A más de 20 años,medio,9.1,3
+Adquisición leasing habitacional no vis (colocación en uvr),A más de 20 años,alto,9.1,22
+Adquisición leasing habitacional no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,8.555,8
+Adquisición leasing habitacional no vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,7.515,2
+Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,14.05,34
+Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,14.05,164
+Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,14.05,64
+Adquisición leasing habitacional vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,14.05,1
+Adquisición leasing habitacional vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,13.95,1
+Adquisición leasing habitacional vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,14.05,27
+Adquisición leasing habitacional vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,14.05,28
+Adquisición leasing habitacional vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,14.05,9
+Adquisición leasing habitacional vis (colocación en pesos),Vivienda hasta 5 años,bajo,16.15,2
+Adquisición leasing habitacional vis (colocación en pesos),Vivienda hasta 5 años,medio,13.95,1
+Adquisición leasing habitacional vis (colocación en uvr),A más de 20 años,bajo,7.75,2
+Adquisición leasing habitacional vis (colocación en uvr),A más de 20 años,medio,7.75,22
+Adquisición leasing habitacional vis (colocación en uvr),A más de 20 años,alto,7.75,7
+Adquisición leasing habitacional vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,7.81,2
+Construcción de vivienda individual no vis (colocación en pesos),A más de 20 años,alto,14.8,2
+Construcción de vivienda individual no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,15.8,139
+Construcción de vivienda individual no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,15.6,73
+Construcción de vivienda individual no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,15.225,154
+Construcción de vivienda individual no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,16.0,42
+Construcción de vivienda individual no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,16.0,19
+Construcción de vivienda individual no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,15.0,20
+Construcción de vivienda individual no vis (colocación en pesos),Vivienda hasta 5 años,bajo,16.4,17
+Construcción de vivienda individual no vis (colocación en pesos),Vivienda hasta 5 años,medio,16.0,2
+Construcción de vivienda individual no vis (colocación en uvr),A más de 20 años,bajo,10.6,1
+Construcción de vivienda individual no vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,10.2,19
+Construcción de vivienda individual no vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,9.6,10
+Construcción de vivienda individual no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,10.05,8
+Construcción de vivienda individual no vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,10.6,1
+Construcción de vivienda individual no vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,10.0,1
+Construcción de vivienda individual vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,15.3,117
+Construcción de vivienda individual vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,15.4,16
+Construcción de vivienda individual vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,14.9,3
+Construcción de vivienda individual vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,15.3,41
+Construcción de vivienda individual vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,14.9,4
+Construcción de vivienda individual vis (colocación en pesos),Vivienda hasta 5 años,bajo,15.1,15
+Construcción de vivienda individual vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,9.2,20
+Construcción de vivienda individual vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,8.9,2
+Construcción de vivienda individual vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,8.9,4
+Construcción de vivienda individual vis (colocación en uvr),Vivienda hasta 5 años,bajo,8.6,1
+Libranza adquisición de vivienda diferente de vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,15.5,3
+Libranza adquisición de vivienda diferente de vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,16.15,1
+Libranza adquisición de vivienda diferente de vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,15.5,5
+Libranza adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,13.95,2
+Libranza adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,14.4,2
+Libranza adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,14.3,1
+Vivienda empleados,A más de 20 años,bajo,5.9,2
+Vivienda empleados,A más de 20 años,medio,5.6,15
+Vivienda empleados,A más de 20 años,alto,6.11,30
+Vivienda empleados,Más de 15 años y hasta 20 años,bajo,14.17,24
+Vivienda empleados,Más de 15 años y hasta 20 años,medio,5.44,80
+Vivienda empleados,Más de 15 años y hasta 20 años,alto,4.91,201
+Vivienda empleados,Más de 5 años y hasta 7 años,bajo,4.07,3
+Vivienda empleados,Más de 5 años y hasta 7 años,alto,6.11,1
+Vivienda empleados,Más de 7 años y hasta 15 años,bajo,14.3,49
+Vivienda empleados,Más de 7 años y hasta 15 años,medio,14.1,49
+Vivienda empleados,Más de 7 años y hasta 15 años,alto,5.6,35
+Vivienda empleados,Vivienda hasta 5 años,bajo,13.8,3
+Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,todos,14.01,69
+Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,15.6,4402
+Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,15.4,116
+Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,15.51,2167
+Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,todos,15.4,287
+Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,todos,9.6,324
+Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,9.2,227
+Adquisición de vivienda no vis (colocación en uvr),Más de 5 años y hasta 7 años,todos,6.21,1
+Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,8.7,30
+Adquisición de vivienda no vis (colocación en uvr),Vivienda hasta 5 años,todos,9.455,2
+Adquisición de vivienda vis (colocación en pesos),A más de 20 años,todos,14.69,456
+Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,14.7,4264
+Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,14.95,153
+Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,14.95,2283
+Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,todos,15.09,491
+Adquisición de vivienda vis (colocación en uvr),A más de 20 años,todos,8.9,1617
+Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,8.47,673
+Adquisición de vivienda vis (colocación en uvr),Más de 5 años y hasta 7 años,todos,8.6,3
+Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,7.71,173
+Adquisición de vivienda vis (colocación en uvr),Vivienda hasta 5 años,todos,10.7,55
+Adquisición leasing habitacional no vis (colocación en pesos),A más de 20 años,todos,15.3,9
+Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,15.25,1059
+Adquisición leasing habitacional no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,15.875,10
+Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,16.445,386
+Adquisición leasing habitacional no vis (colocación en pesos),Vivienda hasta 5 años,todos,16.45,33
+Adquisición leasing habitacional no vis (colocación en uvr),A más de 20 años,todos,9.1,25
+Adquisición leasing habitacional no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,8.555,8
+Adquisición leasing habitacional no vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,7.515,2
+Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,14.05,262
+Adquisición leasing habitacional vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,14.0,2
+Adquisición leasing habitacional vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,14.05,64
+Adquisición leasing habitacional vis (colocación en pesos),Vivienda hasta 5 años,todos,16.15,3
+Adquisición leasing habitacional vis (colocación en uvr),A más de 20 años,todos,7.75,31
+Adquisición leasing habitacional vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,7.81,2
+Construcción de vivienda individual no vis (colocación en pesos),A más de 20 años,todos,14.8,2
+Construcción de vivienda individual no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,15.51,366
+Construcción de vivienda individual no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,15.8,81
+Construcción de vivienda individual no vis (colocación en pesos),Vivienda hasta 5 años,todos,16.4,19
+Construcción de vivienda individual no vis (colocación en uvr),A más de 20 años,todos,10.6,1
+Construcción de vivienda individual no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,10.2,37
+Construcción de vivienda individual no vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,10.3,2
+Construcción de vivienda individual vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,15.3,133
+Construcción de vivienda individual vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,14.9,3
+Construcción de vivienda individual vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,15.3,45
+Construcción de vivienda individual vis (colocación en pesos),Vivienda hasta 5 años,todos,15.1,15
+Construcción de vivienda individual vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,9.2,22
+Construcción de vivienda individual vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,8.9,4
+Construcción de vivienda individual vis (colocación en uvr),Vivienda hasta 5 años,todos,8.6,1
+Libranza adquisición de vivienda diferente de vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,15.5,3
+Libranza adquisición de vivienda diferente de vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,16.15,1
+Libranza adquisición de vivienda diferente de vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,15.5,5
+Libranza adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,13.95,2
+Libranza adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,14.4,3
+Vivienda empleados,A más de 20 años,todos,6.11,47
+Vivienda empleados,Más de 15 años y hasta 20 años,todos,4.91,305
+Vivienda empleados,Más de 5 años y hasta 7 años,todos,5.09,4
+Vivienda empleados,Más de 7 años y hasta 15 años,todos,8.3,133
+Vivienda empleados,Vivienda hasta 5 años,todos,13.8,3

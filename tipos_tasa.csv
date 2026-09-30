@@ -1,0 +1,6 @@
+tipo_tasa,descripcion
+FS,FS (Tasa Fija): Representa una Tasa Fija en Pesos. El porcentaje de interés cobrado se mantiene constante durante toda la vida del crédito sin variaciones por inflación o mercado.
+VUVR,VUVR (Variable en UVR): Corresponde a una Tasa Variable indexada a la UVR (Unidad de Valor Real). El saldo y las cuotas se ajustan periódicamente con base en el comportamiento de la inflación (IPC).
+CECUVR,CECUVR (Cuota Escalonada en UVR): Representa la modalidad de Cuota Escalonada o Creciente en UVR. Es un sistema de amortización donde la cuota expresada en UVR se incrementa anualmente a un porcentaje predeterminado.
+CEC$,CEC$ (Cuota Escalonada en Pesos): Corresponde a la modalidad de Cuota Escalonada o Creciente en Pesos ($). En este sistema las cuotas mensuales en moneda local van aumentando en un porcentaje fijo a lo largo del plazo del crédito.
+IB1,"IB1 (IBR 1 Mes): Tasa de interés Variable indexada al IBR (Indicador Bancario de Referencia) con revisión a plazo de 1 mes. La tasa se reajusta mensualmente sumando los puntos del margen pactado (por ejemplo, IBR 1M + X%)."

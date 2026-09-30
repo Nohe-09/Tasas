@@ -1,0 +1,767 @@
+entidad,producto,plazo,nivel_monto,n,tasa_ref
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,3,13.5
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,25,13.9843
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,143,13.8362
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,3,13.24
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,2,14.95
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,1,14.82
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,24,13.6812
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,29,13.7259
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,55,13.7372
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,bajo,2,13.185
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,medio,3,14.0733
+AV Villas,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,2,8.8
+AV Villas,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,6,8.5167
+AV Villas,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,1,8.2
+AV Villas,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,medio,1,7.2
+AV Villas,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,1,9.65
+AV Villas,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,41,13.564
+AV Villas,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,57,13.6405
+AV Villas,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,12,13.7
+AV Villas,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,5,13.648
+AV Villas,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,45,13.5543
+AV Villas,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,22,13.4581
+AV Villas,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,2,14.525
+AV Villas,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,bajo,16,13.5038
+AV Villas,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,medio,2,13.15
+AV Villas,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,22,8.4896
+AV Villas,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,10,8.44
+AV Villas,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,1,9.0
+AV Villas,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,medio,2,8.5
+AV Villas,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,1,9.0
+AV Villas,Vivienda empleados,Más de 7 años y hasta 15 años,bajo,8,13.2738
+AV Villas,Vivienda empleados,Más de 7 años y hasta 15 años,medio,18,13.8942
+AV Villas,Vivienda empleados,Vivienda hasta 5 años,bajo,2,14.45
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,5,15.86
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,39,16.1631
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,151,15.5579
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,15,16.2153
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,1,17.04
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,4,15.9425
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,96,15.8945
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,63,15.7572
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,102,15.5862
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,bajo,26,15.6087
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,medio,2,14.78
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,alto,3,15.2933
+BBVA Colombia,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,medio,6,8.1057
+BBVA Colombia,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,alto,8,8.0925
+BBVA Colombia,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,1,7.9
+BBVA Colombia,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,8,8.4909
+BBVA Colombia,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,30,8.1655
+BBVA Colombia,Adquisición de vivienda no vis (colocación en uvr),Más de 5 años y hasta 7 años,alto,1,6.21
+BBVA Colombia,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,2,7.415
+BBVA Colombia,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,8,7.48
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,bajo,52,13.0852
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,medio,55,13.1375
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,alto,4,14.3475
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,106,13.4305
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,164,13.3
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,12,13.5
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,22,14.3696
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,1,12.26
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,267,13.8469
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,60,13.5375
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,3,12.8267
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,bajo,39,13.8288
+BBVA Colombia,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,bajo,102,6.9679
+BBVA Colombia,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,medio,156,6.9784
+BBVA Colombia,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,alto,6,6.9167
+BBVA Colombia,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,31,7.1155
+BBVA Colombia,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,63,6.7755
+BBVA Colombia,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,10,6.764
+BBVA Colombia,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,26,7.0487
+BBVA Colombia,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,medio,16,6.5635
+BBVA Colombia,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,1,7.67
+BBVA Colombia,Adquisición de vivienda vis (colocación en uvr),Vivienda hasta 5 años,bajo,1,7.57
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),A más de 20 años,alto,1,17.82
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,1,16.27
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,6,14.5217
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,132,14.9829
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,2,15.85
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,19,15.578
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,14,15.17
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,36,15.1039
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),Vivienda hasta 5 años,bajo,5,15.096
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),Vivienda hasta 5 años,medio,1,15.25
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),Vivienda hasta 5 años,alto,1,16.24
+BBVA Colombia,Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,1,12.42
+BBVA Colombia,Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,6,12.0683
+BBVA Colombia,Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,7,12.2229
+BBVA Colombia,Adquisición leasing habitacional vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,1,11.5
+BBVA Colombia,Adquisición leasing habitacional vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,2,12.65
+BBVA Colombia,Vivienda empleados,A más de 20 años,bajo,1,5.85
+BBVA Colombia,Vivienda empleados,Más de 15 años y hasta 20 años,bajo,2,9.79
+BBVA Colombia,Vivienda empleados,Más de 15 años y hasta 20 años,medio,8,4.9977
+BBVA Colombia,Vivienda empleados,Más de 15 años y hasta 20 años,alto,16,12.0918
+BBVA Colombia,Vivienda empleados,Más de 7 años y hasta 15 años,bajo,6,15.2117
+BBVA Colombia,Vivienda empleados,Más de 7 años y hasta 15 años,medio,1,11.8
+BBVA Colombia,Vivienda empleados,Más de 7 años y hasta 15 años,alto,4,13.778
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,bajo,2,14.2
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,medio,2,14.2
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,alto,4,14.45
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,44,14.5387
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,43,14.6093
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,37,14.5441
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,1,14.3
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,1,15.3
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,25,14.356
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,16,13.0012
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,8,12.2875
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,bajo,6,14.5
+Banagrario,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,medio,1,9.3
+Banagrario,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,alto,3,8.8333
+Banagrario,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,1,8.7
+Banagrario,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,2,8.65
+Banagrario,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,6,8.95
+Banagrario,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,bajo,15,13.8373
+Banagrario,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,medio,13,13.9377
+Banagrario,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,alto,1,13.7
+Banagrario,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,102,13.8844
+Banagrario,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,60,13.7607
+Banagrario,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,3,14.3667
+Banagrario,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,2,13.4
+Banagrario,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,59,14.1847
+Banagrario,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,11,13.9364
+Banagrario,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,bajo,8,14.4125
+Banagrario,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,bajo,3,8.1
+Banagrario,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,medio,2,8.8
+Banagrario,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,5,8.7
+Banagrario,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,4,8.8
+Banagrario,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,1,8.8
+Banagrario,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,medio,2,8.45
+Banagrario,Vivienda empleados,Más de 15 años y hasta 20 años,bajo,6,5.0
+Banagrario,Vivienda empleados,Más de 15 años y hasta 20 años,medio,9,5.0
+Banagrario,Vivienda empleados,Más de 15 años y hasta 20 años,alto,3,5.0
+Banagrario,Vivienda empleados,Más de 7 años y hasta 15 años,bajo,3,5.0
+Banagrario,Vivienda empleados,Más de 7 años y hasta 15 años,medio,5,5.0
+Banagrario,Vivienda empleados,Más de 7 años y hasta 15 años,alto,8,5.0
+Bancamía S.A.,Vivienda empleados,Más de 15 años y hasta 20 años,medio,2,4.0
+Bancamía S.A.,Vivienda empleados,Más de 7 años y hasta 15 años,bajo,4,4.0
+Bancamía S.A.,Vivienda empleados,Más de 7 años y hasta 15 años,medio,2,4.0
+Bancamía S.A.,Vivienda empleados,Más de 7 años y hasta 15 años,alto,2,4.0
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,36,14.3912
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,81,14.659
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,196,14.4226
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,13,16.45
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,1,14.1
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,136,16.1632
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,98,15.5286
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,69,15.0031
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,bajo,42,16.4785
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,medio,5,16.0
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,bajo,2,7.9
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,medio,3,7.5667
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,alto,4,7.525
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,4,7.725
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,11,8.2
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,28,7.9457
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,6,8.7833
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,3,9.1833
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,234,13.8154
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,252,13.5549
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,15,13.3112
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,64,15.0545
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,2,13.85
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,631,14.8412
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,50,14.0488
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,1,12.7
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,bajo,285,15.1987
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,bajo,11,6.7818
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,medio,29,6.7202
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,alto,1,6.6
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,37,7.2143
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,85,6.799
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,3,7.1667
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en uvr),Más de 5 años y hasta 7 años,bajo,1,6.15
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,50,7.6479
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,medio,19,7.4996
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,1,8.7
+Banco Caja Social S.A.,Adquisición leasing habitacional no vis (colocación en uvr),A más de 20 años,alto,1,8.0
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,medio,1,14.9
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,alto,13,15.21
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,16,15.2812
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,33,15.2122
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,117,15.2152
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,6,15.165
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,1,15.19
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,1,15.34
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,40,15.2982
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,31,15.1938
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,70,15.2473
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,bajo,18,15.2995
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,medio,7,15.2686
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,alto,7,15.28
+Banco Davibank,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,1,10.24
+Banco Davibank,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,2,10.24
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,bajo,6,14.665
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,medio,17,14.6805
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,alto,1,14.69
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,32,15.0219
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,49,14.6947
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,3,14.69
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,6,15.24
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,34,14.9898
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,33,14.7158
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,1,14.69
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,bajo,16,15.1628
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,medio,1,15.24
+Banco Davibank,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,bajo,3,9.04
+Banco Davibank,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,medio,6,9.04
+Banco Davibank,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,3,9.04
+Banco Davibank,Adquisición leasing habitacional no vis (colocación en pesos),A más de 20 años,medio,1,15.4
+Banco Davibank,Adquisición leasing habitacional no vis (colocación en pesos),A más de 20 años,alto,7,15.25
+Banco Davibank,Vivienda empleados,A más de 20 años,medio,9,4.7857
+Banco Davibank,Vivienda empleados,A más de 20 años,alto,10,6.0415
+Banco Davibank,Vivienda empleados,Más de 15 años y hasta 20 años,medio,5,5.28
+Banco Davibank,Vivienda empleados,Más de 15 años y hasta 20 años,alto,4,5.675
+Banco Davibank,Vivienda empleados,Más de 7 años y hasta 15 años,bajo,2,4.5
+Banco Davibank,Vivienda empleados,Más de 7 años y hasta 15 años,medio,4,5.95
+Banco Davibank,Vivienda empleados,Más de 7 años y hasta 15 años,alto,8,5.7822
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,22,15.5458
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,125,15.747
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,680,15.5969
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,4,16.15
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,3,15.8
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,4,15.3375
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,89,16.2708
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,118,16.0122
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,242,15.8056
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,bajo,19,16.2158
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,medio,5,15.83
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,alto,11,15.6591
+Banco Davivienda,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,medio,2,9.6
+Banco Davivienda,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,alto,23,9.364
+Banco Davivienda,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,1,9.6
+Banco Davivienda,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,2,9.6
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,295,14.32
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,699,14.358
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,65,14.5359
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,22,15.1304
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,6,14.5044
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,295,15.3023
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,153,14.4658
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,9,14.4111
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,bajo,36,15.1909
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,medio,11,14.3846
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,alto,2,14.35
+Banco Davivienda,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,bajo,94,7.6077
+Banco Davivienda,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,medio,183,7.6253
+Banco Davivienda,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,alto,4,7.51
+Banco Davivienda,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,49,7.6493
+Banco Davivienda,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,47,7.5536
+Banco Davivienda,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,2,7.75
+Banco Davivienda,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,medio,1,7.75
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,7,15.55
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,37,15.5098
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,636,15.1927
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,4,16.45
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,1,15.8
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,2,15.2
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,74,16.4201
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,63,16.1565
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,140,15.7743
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Vivienda hasta 5 años,bajo,20,16.28
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Vivienda hasta 5 años,medio,1,16.45
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Vivienda hasta 5 años,alto,4,15.7375
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en uvr),A más de 20 años,medio,3,8.6
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en uvr),A más de 20 años,alto,21,8.7127
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,3,9.1
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,33,13.9106
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,156,14.0239
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,52,13.9688
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,1,14.05
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,1,13.95
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,26,14.9981
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,26,14.0983
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,7,14.1214
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en pesos),Vivienda hasta 5 años,bajo,2,16.15
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en pesos),Vivienda hasta 5 años,medio,1,13.95
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en uvr),A más de 20 años,bajo,2,7.75
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en uvr),A más de 20 años,medio,22,7.65
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en uvr),A más de 20 años,alto,7,7.6214
+Banco Davivienda,Libranza adquisición de vivienda diferente de vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,3,15.7167
+Banco Davivienda,Libranza adquisición de vivienda diferente de vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,1,16.15
+Banco Davivienda,Libranza adquisición de vivienda diferente de vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,5,14.9
+Banco Davivienda,Libranza adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,2,13.95
+Banco Davivienda,Libranza adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,2,14.4
+Banco Davivienda,Libranza adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,1,14.3
+Banco Davivienda,Vivienda empleados,A más de 20 años,medio,2,8.375
+Banco Davivienda,Vivienda empleados,A más de 20 años,alto,2,9.4333
+Banco Davivienda,Vivienda empleados,Más de 15 años y hasta 20 años,bajo,14,14.815
+Banco Davivienda,Vivienda empleados,Más de 15 años y hasta 20 años,medio,26,14.6904
+Banco Davivienda,Vivienda empleados,Más de 15 años y hasta 20 años,alto,20,14.9889
+Banco Davivienda,Vivienda empleados,Más de 5 años y hasta 7 años,bajo,1,16.45
+Banco Davivienda,Vivienda empleados,Más de 7 años y hasta 15 años,bajo,14,15.7573
+Banco Davivienda,Vivienda empleados,Más de 7 años y hasta 15 años,medio,10,15.295
+Banco Davivienda,Vivienda empleados,Más de 7 años y hasta 15 años,alto,7,15.3038
+Banco GNB Sudameris,Vivienda empleados,Más de 7 años y hasta 15 años,bajo,7,4.07
+Banco GNB Sudameris,Vivienda empleados,Más de 7 años y hasta 15 años,medio,5,4.916
+Banco GNB Sudameris,Vivienda empleados,Más de 7 años y hasta 15 años,alto,4,4.07
+Banco Popular,Vivienda empleados,Más de 15 años y hasta 20 años,bajo,2,6.925
+Banco Popular,Vivienda empleados,Más de 15 años y hasta 20 años,medio,7,5.7025
+Banco Popular,Vivienda empleados,Más de 15 años y hasta 20 años,alto,11,4.7888
+Banco Popular,Vivienda empleados,Más de 7 años y hasta 15 años,alto,1,6.92
+Banco Serfinanza S.A.,Vivienda empleados,A más de 20 años,alto,2,12.08
+Banco Serfinanza S.A.,Vivienda empleados,Más de 15 años y hasta 20 años,alto,1,11.83
+Banco Unión,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,6,18.0
+Banco Unión,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,12,17.9792
+Banco Unión,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,7,16.7014
+Banco Unión,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,23,16.6733
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,282,15.6322
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,129,15.773
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,499,15.9587
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,32,15.43
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,1,14.45
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,2,15.39
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,206,15.3362
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,42,15.4825
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,99,15.3415
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,bajo,79,15.1616
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,medio,2,13.9
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,alto,1,14.33
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,medio,3,9.1633
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,alto,18,9.3116
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,3,9.298
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,20,9.2435
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,medio,1,8.99
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,1,9.16
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en uvr),Vivienda hasta 5 años,alto,1,8.21
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,bajo,133,15.2956
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,medio,147,14.9726
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,alto,7,15.1729
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,203,15.137
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,396,15.1321
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,50,14.9076
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,5,14.496
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,4,14.805
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,97,14.9029
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,121,14.9359
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,3,15.4333
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,bajo,8,14.3525
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,medio,3,14.5733
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,alto,1,15.53
+Banco de Bogotá,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,bajo,27,9.0812
+Banco de Bogotá,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,medio,98,9.0567
+Banco de Bogotá,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,alto,17,9.0194
+Banco de Bogotá,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,10,8.938
+Banco de Bogotá,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,65,8.9629
+Banco de Bogotá,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,10,8.99
+Banco de Bogotá,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,1,8.86
+Banco de Bogotá,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,medio,11,8.9015
+Banco de Bogotá,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,3,8.9467
+Banco de Bogotá,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,134,14.5014
+Banco de Bogotá,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,17,13.9841
+Banco de Bogotá,Vivienda empleados,A más de 20 años,bajo,1,5.95
+Banco de Bogotá,Vivienda empleados,A más de 20 años,medio,4,6.3767
+Banco de Bogotá,Vivienda empleados,A más de 20 años,alto,16,6.31
+Banco de Bogotá,Vivienda empleados,Más de 15 años y hasta 20 años,medio,9,4.9767
+Banco de Bogotá,Vivienda empleados,Más de 15 años y hasta 20 años,alto,33,5.3962
+Banco de Bogotá,Vivienda empleados,Más de 5 años y hasta 7 años,bajo,2,4.07
+Banco de Bogotá,Vivienda empleados,Más de 5 años y hasta 7 años,alto,1,6.11
+Banco de Bogotá,Vivienda empleados,Más de 7 años y hasta 15 años,bajo,4,4.07
+Banco de Bogotá,Vivienda empleados,Más de 7 años y hasta 15 años,medio,3,4.58
+Banco de Bogotá,Vivienda empleados,Más de 7 años y hasta 15 años,alto,1,6.11
+Banco de Bogotá,Vivienda empleados,Vivienda hasta 5 años,bajo,1,4.07
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,10,16.6673
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,28,15.6943
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,175,15.253
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,2,16.965
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,2,15.145
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,11,14.7225
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,16,15.2254
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,60,15.0844
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,bajo,2,15.935
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,medio,2,15.22
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,alto,3,14.17
+Banco de Occidente,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,alto,1,10.47
+Banco de Occidente,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,16,8.4424
+Banco de Occidente,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,16,14.5512
+Banco de Occidente,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,51,14.8995
+Banco de Occidente,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,6,15.2333
+Banco de Occidente,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,1,9.0
+Banco de Occidente,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,5,14.488
+Banco de Occidente,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,17,15.4742
+Banco de Occidente,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,bajo,1,16.69
+Banco de Occidente,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,medio,1,10.47
+Banco de Occidente,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,1,3.7
+Banco de Occidente,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,3,7.1133
+Banco de Occidente,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,2,10.11
+Banco de Occidente,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,1,16.88
+Banco de Occidente,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,84,14.7773
+Banco de Occidente,Adquisición leasing habitacional no vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,1,13.56
+Banco de Occidente,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,1,14.58
+Banco de Occidente,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,2,10.665
+Banco de Occidente,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,19,14.6875
+Banco de Occidente,Adquisición leasing habitacional no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,5,8.254
+Banco de Occidente,Adquisición leasing habitacional no vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,2,7.515
+Banco de Occidente,Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,2,16.61
+Banco de Occidente,Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,5,16.36
+Banco de Occidente,Adquisición leasing habitacional vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,2,15.59
+Banco de Occidente,Adquisición leasing habitacional vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,2,7.81
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,medio,1,16.4
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,alto,1,14.8
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,51,16.2347
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,217,16.0645
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,1160,15.8148
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,1,16.4
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,5,16.04
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,4,15.55
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,33,16.2149
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,76,16.0298
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,245,15.6372
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,bajo,8,15.9
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,medio,12,16.0667
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,alto,8,15.7625
+Bancolombia,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,bajo,10,10.28
+Bancolombia,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,medio,44,10.1619
+Bancolombia,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,alto,196,9.815
+Bancolombia,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,4,10.5
+Bancolombia,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,10,10.1
+Bancolombia,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,69,9.8981
+Bancolombia,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,medio,2,10.7
+Bancolombia,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,3,10.0
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,bajo,1,15.3
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,medio,1,15.1
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,417,15.2482
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,843,15.198
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,73,15.1849
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,7,15.3286
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,5,15.2367
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,124,15.197
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,183,15.1545
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,11,15.2636
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,bajo,26,15.0607
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,medio,15,15.2733
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,bajo,378,9.3572
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,medio,423,9.2153
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,alto,46,9.3109
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,62,9.2113
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,119,9.21
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,13,9.0385
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),Más de 5 años y hasta 7 años,bajo,1,9.2
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),Más de 5 años y hasta 7 años,medio,1,8.6
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,17,9.1765
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,medio,13,9.2
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,3,9.045
+Bancolombia,Construcción de vivienda individual no vis (colocación en pesos),A más de 20 años,alto,2,14.8
+Bancolombia,Construcción de vivienda individual no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,139,15.9287
+Bancolombia,Construcción de vivienda individual no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,73,15.7035
+Bancolombia,Construcción de vivienda individual no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,154,15.3601
+Bancolombia,Construcción de vivienda individual no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,40,16.0078
+Bancolombia,Construcción de vivienda individual no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,19,16.0632
+Bancolombia,Construcción de vivienda individual no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,20,15.18
+Bancolombia,Construcción de vivienda individual no vis (colocación en pesos),Vivienda hasta 5 años,bajo,17,16.1235
+Bancolombia,Construcción de vivienda individual no vis (colocación en pesos),Vivienda hasta 5 años,medio,2,16.0
+Bancolombia,Construcción de vivienda individual no vis (colocación en uvr),A más de 20 años,bajo,1,10.6
+Bancolombia,Construcción de vivienda individual no vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,19,10.1632
+Bancolombia,Construcción de vivienda individual no vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,10,9.66
+Bancolombia,Construcción de vivienda individual no vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,8,9.75
+Bancolombia,Construcción de vivienda individual no vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,1,10.6
+Bancolombia,Construcción de vivienda individual no vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,1,10.0
+Bancolombia,Construcción de vivienda individual vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,117,15.238
+Bancolombia,Construcción de vivienda individual vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,16,15.4375
+Bancolombia,Construcción de vivienda individual vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,3,15.0333
+Bancolombia,Construcción de vivienda individual vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,41,15.2732
+Bancolombia,Construcción de vivienda individual vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,4,14.95
+Bancolombia,Construcción de vivienda individual vis (colocación en pesos),Vivienda hasta 5 años,bajo,15,15.2333
+Bancolombia,Construcción de vivienda individual vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,20,9.11
+Bancolombia,Construcción de vivienda individual vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,2,8.9
+Bancolombia,Construcción de vivienda individual vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,4,8.775
+Bancolombia,Construcción de vivienda individual vis (colocación en uvr),Vivienda hasta 5 años,bajo,1,8.6
+Bancolombia,Vivienda empleados,Más de 15 años y hasta 20 años,medio,10,4.91
+Bancolombia,Vivienda empleados,Más de 15 años y hasta 20 años,alto,111,4.91
+Bancoomeva,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,1,13.89
+Bancoomeva,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,1,14.3
+Bancoomeva,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,10,12.862
+Bancoomeva,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,1,14.3
+Bancoomeva,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,2,14.845
+Bancoomeva,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,4,13.29
+Bancoomeva,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,22,13.36
+Bancoomeva,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,3,12.72
+Bancoomeva,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,4,13.5225
+Bancoomeva,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,9,12.8078
+Bancoomeva,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,1,12.42
+Bancoomeva,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,medio,1,7.82
+Bancoomeva,Construcción de vivienda individual no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,2,15.935
+Credifamilia,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,bajo,8,16.6927
+Credifamilia,Adquisición de vivienda no vis (colocación en uvr),Vivienda hasta 5 años,alto,1,10.7
+Credifamilia,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,bajo,13,16.3032
+Credifamilia,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,medio,5,16.698
+Credifamilia,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,alto,3,16.7033
+Credifamilia,Adquisición de vivienda vis (colocación en uvr),Vivienda hasta 5 años,bajo,35,10.5302
+Credifamilia,Adquisición de vivienda vis (colocación en uvr),Vivienda hasta 5 años,medio,18,10.4948
+Credifamilia,Adquisición de vivienda vis (colocación en uvr),Vivienda hasta 5 años,alto,1,10.7
+Itaú,Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,bajo,5,13.8
+Itaú,Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,medio,10,13.71
+Itaú,Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,alto,30,13.74
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,4,13.8575
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,8,13.71
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,31,13.7482
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,3,13.89
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,medio,1,13.66
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,alto,1,14.0
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,4,13.7
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,medio,4,13.828
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,alto,14,13.7336
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,bajo,4,13.745
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,alto,2,13.17
+Itaú,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,2,13.71
+Itaú,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,alto,19,13.7304
+Itaú,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,1,13.75
+Itaú,Adquisición leasing habitacional no vis (colocación en pesos),Vivienda hasta 5 años,alto,1,13.9
+Itaú,Vivienda empleados,Más de 15 años y hasta 20 años,medio,4,3.99
+Itaú,Vivienda empleados,Más de 15 años y hasta 20 años,alto,2,8.825
+Itaú,Vivienda empleados,Más de 7 años y hasta 15 años,bajo,1,6.56
+Itaú,Vivienda empleados,Más de 7 años y hasta 15 años,medio,1,3.99
+La Hipotecaria,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,alto,1,8.5
+La Hipotecaria,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,bajo,2,14.9
+La Hipotecaria,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,medio,1,12.9
+La Hipotecaria,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,bajo,4,14.4
+La Hipotecaria,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,medio,1,15.9
+La Hipotecaria,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,bajo,1,16.9
+La Hipotecaria,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,bajo,2,16.9
+La Hipotecaria,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,bajo,8,8.3192
+La Hipotecaria,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,medio,19,8.3167
+La Hipotecaria,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,bajo,7,8.265
+La Hipotecaria,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,medio,8,8.1667
+La Hipotecaria,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,alto,1,8.5
+La Hipotecaria,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,bajo,2,8.5
+La Hipotecaria,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,medio,2,8.5
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,171,13.8533
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,6,14.0733
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,108,13.7218
+AV Villas,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,todos,5,13.718
+AV Villas,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,8,8.5875
+AV Villas,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,3,8.35
+AV Villas,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,110,13.6203
+AV Villas,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,5,13.648
+AV Villas,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,69,13.5476
+AV Villas,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,todos,18,13.4644
+AV Villas,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,33,8.49
+AV Villas,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,3,8.6667
+AV Villas,Vivienda empleados,Más de 7 años y hasta 15 años,todos,26,13.7104
+AV Villas,Vivienda empleados,Vivienda hasta 5 años,todos,2,14.45
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,195,15.6993
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,20,16.202
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,261,15.7586
+BBVA Colombia,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,todos,31,15.5364
+BBVA Colombia,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,todos,14,8.0987
+BBVA Colombia,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,39,8.2426
+BBVA Colombia,Adquisición de vivienda no vis (colocación en uvr),Más de 5 años y hasta 7 años,todos,1,6.21
+BBVA Colombia,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,10,7.467
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,todos,111,13.1494
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,282,13.3451
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,23,14.2817
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,330,13.7901
+BBVA Colombia,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,todos,39,13.8288
+BBVA Colombia,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,todos,264,6.9745
+BBVA Colombia,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,104,6.8732
+BBVA Colombia,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,43,6.8931
+BBVA Colombia,Adquisición de vivienda vis (colocación en uvr),Vivienda hasta 5 años,todos,1,7.57
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),A más de 20 años,todos,1,17.82
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,139,14.9735
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,2,15.85
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,69,15.2481
+BBVA Colombia,Adquisición leasing habitacional no vis (colocación en pesos),Vivienda hasta 5 años,todos,7,15.2814
+BBVA Colombia,Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,14,12.1707
+BBVA Colombia,Adquisición leasing habitacional vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,3,12.2667
+BBVA Colombia,Vivienda empleados,A más de 20 años,todos,1,5.85
+BBVA Colombia,Vivienda empleados,Más de 15 años y hasta 20 años,todos,26,9.0879
+BBVA Colombia,Vivienda empleados,Más de 7 años y hasta 15 años,todos,11,14.33
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,todos,8,14.325
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,124,14.5646
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,2,14.8
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,49,13.5644
+Banagrario,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,todos,6,14.5
+Banagrario,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,todos,4,8.95
+Banagrario,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,9,8.8556
+Banagrario,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,todos,29,13.8776
+Banagrario,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,165,13.8477
+Banagrario,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,2,13.4
+Banagrario,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,70,14.1462
+Banagrario,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,todos,8,14.4125
+Banagrario,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,todos,5,8.38
+Banagrario,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,9,8.7444
+Banagrario,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,3,8.5667
+Banagrario,Vivienda empleados,Más de 15 años y hasta 20 años,todos,18,5.0
+Banagrario,Vivienda empleados,Más de 7 años y hasta 15 años,todos,16,5.0
+Bancamía S.A.,Vivienda empleados,Más de 15 años y hasta 20 años,todos,2,4.0
+Bancamía S.A.,Vivienda empleados,Más de 7 años y hasta 15 años,todos,8,4.0
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,313,14.4943
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,14,16.2821
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,303,15.7206
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,todos,47,16.4316
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,todos,9,7.6222
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,43,7.9972
+Banco Caja Social S.A.,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,9,8.9167
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,501,13.6638
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,66,15.0191
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,682,14.7951
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,todos,285,15.1987
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,todos,41,6.7295
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,125,6.9445
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en uvr),Más de 5 años y hasta 7 años,todos,1,6.15
+Banco Caja Social S.A.,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,70,7.6188
+Banco Caja Social S.A.,Adquisición leasing habitacional no vis (colocación en uvr),A más de 20 años,todos,1,8.0
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,todos,14,15.1918
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,166,15.2199
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,8,15.2067
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,141,15.2456
+Banco Davibank,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,todos,32,15.2885
+Banco Davibank,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,3,10.24
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,todos,24,14.6767
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,84,14.8206
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,6,15.24
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,68,14.8524
+Banco Davibank,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,todos,17,15.1668
+Banco Davibank,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,todos,9,9.04
+Banco Davibank,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,3,9.04
+Banco Davibank,Adquisición leasing habitacional no vis (colocación en pesos),A más de 20 años,todos,8,15.265
+Banco Davibank,Vivienda empleados,A más de 20 años,todos,19,5.3904
+Banco Davibank,Vivienda empleados,Más de 15 años y hasta 20 años,todos,9,5.4236
+Banco Davibank,Vivienda empleados,Más de 7 años y hasta 15 años,todos,14,5.656
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,827,15.6177
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,11,15.7591
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,449,15.9547
+Banco Davivienda,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,todos,35,15.9857
+Banco Davivienda,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,todos,25,9.3815
+Banco Davivienda,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,3,9.6
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,1059,14.3588
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,28,14.9544
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,457,14.8445
+Banco Davivienda,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,todos,49,14.9812
+Banco Davivienda,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,todos,281,7.6192
+Banco Davivienda,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,98,7.6053
+Banco Davivienda,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,1,7.75
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,680,15.215
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,7,16.0
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,277,16.0383
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en pesos),Vivienda hasta 5 años,todos,25,16.2031
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en uvr),A más de 20 años,todos,24,8.6992
+Banco Davivienda,Adquisición leasing habitacional no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,3,9.1
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,241,13.9989
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,2,14.0
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,59,14.4782
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en pesos),Vivienda hasta 5 años,todos,3,15.4167
+Banco Davivienda,Adquisición leasing habitacional vis (colocación en uvr),A más de 20 años,todos,31,7.65
+Banco Davivienda,Libranza adquisición de vivienda diferente de vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,3,15.7167
+Banco Davivienda,Libranza adquisición de vivienda diferente de vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,1,16.15
+Banco Davivienda,Libranza adquisición de vivienda diferente de vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,5,14.9
+Banco Davivienda,Libranza adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,2,13.95
+Banco Davivienda,Libranza adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,3,14.3667
+Banco Davivienda,Vivienda empleados,A más de 20 años,todos,4,9.01
+Banco Davivienda,Vivienda empleados,Más de 15 años y hasta 20 años,todos,60,14.8089
+Banco Davivienda,Vivienda empleados,Más de 5 años y hasta 7 años,todos,1,16.45
+Banco Davivienda,Vivienda empleados,Más de 7 años y hasta 15 años,todos,31,15.4951
+Banco GNB Sudameris,Vivienda empleados,Más de 7 años y hasta 15 años,todos,16,4.305
+Banco Popular,Vivienda empleados,Más de 15 años y hasta 20 años,todos,20,5.2967
+Banco Popular,Vivienda empleados,Más de 7 años y hasta 15 años,todos,1,6.92
+Banco Serfinanza S.A.,Vivienda empleados,A más de 20 años,todos,2,12.08
+Banco Serfinanza S.A.,Vivienda empleados,Más de 15 años y hasta 20 años,todos,1,11.83
+Banco Unión,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,18,17.9868
+Banco Unión,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,30,16.6791
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,910,15.8242
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,35,15.4014
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,347,15.3571
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,todos,82,15.1247
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,todos,21,9.2914
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,23,9.2544
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,2,9.1033
+Banco de Bogotá,Adquisición de vivienda no vis (colocación en uvr),Vivienda hasta 5 años,todos,1,8.21
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,todos,287,15.1232
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,649,15.1204
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,9,14.6333
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,221,14.9275
+Banco de Bogotá,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,todos,12,14.5058
+Banco de Bogotá,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,todos,142,9.0574
+Banco de Bogotá,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,85,8.9632
+Banco de Bogotá,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,15,8.9071
+Banco de Bogotá,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,134,14.5014
+Banco de Bogotá,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,17,13.9841
+Banco de Bogotá,Vivienda empleados,A más de 20 años,todos,21,6.3117
+Banco de Bogotá,Vivienda empleados,Más de 15 años y hasta 20 años,todos,42,5.3175
+Banco de Bogotá,Vivienda empleados,Más de 5 años y hasta 7 años,todos,3,4.75
+Banco de Bogotá,Vivienda empleados,Más de 7 años y hasta 15 años,todos,8,4.5233
+Banco de Bogotá,Vivienda empleados,Vivienda hasta 5 años,todos,1,4.07
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,213,15.3686
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,4,16.055
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,87,15.0752
+Banco de Occidente,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,todos,7,14.9743
+Banco de Occidente,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,todos,1,10.47
+Banco de Occidente,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,16,8.4424
+Banco de Occidente,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,73,14.8595
+Banco de Occidente,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,1,9.0
+Banco de Occidente,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,22,15.3041
+Banco de Occidente,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,todos,1,16.69
+Banco de Occidente,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,todos,1,10.47
+Banco de Occidente,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,6,7.5433
+Banco de Occidente,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,85,14.7981
+Banco de Occidente,Adquisición leasing habitacional no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,1,13.56
+Banco de Occidente,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,22,14.333
+Banco de Occidente,Adquisición leasing habitacional no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,5,8.254
+Banco de Occidente,Adquisición leasing habitacional no vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,2,7.515
+Banco de Occidente,Adquisición leasing habitacional vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,7,16.4314
+Banco de Occidente,Adquisición leasing habitacional vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,2,15.59
+Banco de Occidente,Adquisición leasing habitacional vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,2,7.81
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,todos,2,15.6
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,1428,15.8671
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,10,15.88
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,354,15.7789
+Bancolombia,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,todos,28,15.9321
+Bancolombia,Adquisición de vivienda no vis (colocación en uvr),A más de 20 años,todos,250,9.897
+Bancolombia,Adquisición de vivienda no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,83,9.9495
+Bancolombia,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,5,10.28
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,todos,2,15.2
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,1333,15.2096
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,12,15.2862
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,318,15.1721
+Bancolombia,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,todos,41,15.1367
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,todos,847,9.2816
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,194,9.2016
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),Más de 5 años y hasta 7 años,todos,2,8.9
+Bancolombia,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,33,9.1709
+Bancolombia,Construcción de vivienda individual no vis (colocación en pesos),A más de 20 años,todos,2,14.8
+Bancolombia,Construcción de vivienda individual no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,366,15.652
+Bancolombia,Construcción de vivienda individual no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,79,15.814
+Bancolombia,Construcción de vivienda individual no vis (colocación en pesos),Vivienda hasta 5 años,todos,19,16.1105
+Bancolombia,Construcción de vivienda individual no vis (colocación en uvr),A más de 20 años,todos,1,10.6
+Bancolombia,Construcción de vivienda individual no vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,37,9.9378
+Bancolombia,Construcción de vivienda individual no vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,2,10.3
+Bancolombia,Construcción de vivienda individual vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,133,15.2612
+Bancolombia,Construcción de vivienda individual vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,3,15.0333
+Bancolombia,Construcción de vivienda individual vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,45,15.2444
+Bancolombia,Construcción de vivienda individual vis (colocación en pesos),Vivienda hasta 5 años,todos,15,15.2333
+Bancolombia,Construcción de vivienda individual vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,22,9.0909
+Bancolombia,Construcción de vivienda individual vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,4,8.775
+Bancolombia,Construcción de vivienda individual vis (colocación en uvr),Vivienda hasta 5 años,todos,1,8.6
+Bancolombia,Vivienda empleados,Más de 15 años y hasta 20 años,todos,121,4.91
+Bancoomeva,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,12,13.0675
+Bancoomeva,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,1,14.3
+Bancoomeva,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,28,13.4497
+Bancoomeva,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,3,12.72
+Bancoomeva,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,14,12.9843
+Bancoomeva,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,1,7.82
+Bancoomeva,Construcción de vivienda individual no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,2,15.935
+Credifamilia,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,todos,8,16.6927
+Credifamilia,Adquisición de vivienda no vis (colocación en uvr),Vivienda hasta 5 años,todos,1,10.7
+Credifamilia,Adquisición de vivienda vis (colocación en pesos),Vivienda hasta 5 años,todos,21,16.4207
+Credifamilia,Adquisición de vivienda vis (colocación en uvr),Vivienda hasta 5 años,todos,54,10.522
+Itaú,Adquisición de vivienda no vis (colocación en pesos),A más de 20 años,todos,45,13.7368
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,43,13.7494
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,5,13.866
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,22,13.7463
+Itaú,Adquisición de vivienda no vis (colocación en pesos),Vivienda hasta 5 años,todos,6,13.5533
+Itaú,Adquisición leasing habitacional no vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,21,13.7274
+Itaú,Adquisición leasing habitacional no vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,1,13.75
+Itaú,Adquisición leasing habitacional no vis (colocación en pesos),Vivienda hasta 5 años,todos,1,13.9
+Itaú,Vivienda empleados,Más de 15 años y hasta 20 años,todos,6,4.5588
+Itaú,Vivienda empleados,Más de 7 años y hasta 15 años,todos,2,5.7033
+La Hipotecaria,Adquisición de vivienda no vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,1,8.5
+La Hipotecaria,Adquisición de vivienda vis (colocación en pesos),A más de 20 años,todos,3,14.2333
+La Hipotecaria,Adquisición de vivienda vis (colocación en pesos),Más de 15 años y hasta 20 años,todos,5,14.7
+La Hipotecaria,Adquisición de vivienda vis (colocación en pesos),Más de 5 años y hasta 7 años,todos,1,16.9
+La Hipotecaria,Adquisición de vivienda vis (colocación en pesos),Más de 7 años y hasta 15 años,todos,2,16.9
+La Hipotecaria,Adquisición de vivienda vis (colocación en uvr),A más de 20 años,todos,27,8.3174
+La Hipotecaria,Adquisición de vivienda vis (colocación en uvr),Más de 15 años y hasta 20 años,todos,16,8.2379
+La Hipotecaria,Adquisición de vivienda vis (colocación en uvr),Más de 7 años y hasta 15 años,todos,4,8.5
